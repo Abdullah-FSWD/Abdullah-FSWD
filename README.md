@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="50%"/>
 
 
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abdullah</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abdullah from Jharhand,India</h1>
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
@@ -56,10 +56,10 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 ##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
 <p align="left">
-<a href="https://twitter.com/#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="anu250867anu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-abdullah-ansari" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="abckyadav" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="anu250867anu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-abdullah-ansari" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="md-abdullah-ansari" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/anu.abckyadav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="anu.abckyadav" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/a_b_d_u_ll_a__h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu.abckyadav" height="30" width="40" /></a>   
+<a href="https://www.instagram.com/a_b_d_u_ll_a__h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_b_d_u_ll_a__h" height="30" width="40" /></a>   
 </p>
       
 
