@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="50%"/>
 
 
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abdullah from Jharhand,India</h1>
+<h1 align="center">Hi, I'm Abdullah from Jharhand,India</h1>
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
