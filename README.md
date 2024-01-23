@@ -14,7 +14,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://LINK_HERE/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abdullah-portfolio.vercel.app/)**
 
 - 📫 How to reach me **ansarimdabdullah790@gmail.com**
 
