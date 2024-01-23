@@ -20,7 +20,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 - ⚡ Fun fact **I love Swimming and travelling.**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KnRdWO-YIt6XHdWSMiuH6idV5UdlLtyT/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JxvyiE4iluqNosVmYpt0EFWPxIRpovNt/view?usp=sharing)
 
 <hr/>
 
