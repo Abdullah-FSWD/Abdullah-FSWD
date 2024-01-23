@@ -7,6 +7,7 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
 <hr/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullah-FSWD&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullah-FSWD" /> </p>
 
 ## 🙋‍♂️ About Me
 
