@@ -9,7 +9,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullah-FSWD&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullah-FSWD" /> </p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms. & MERN**
 
