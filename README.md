@@ -46,16 +46,13 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 ## 📈 My Github Stats
 <div>
-<img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-FSWD&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abdullah-FSWD&show_icons=true&theme=blue" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-FSWD&theme=blue" alt="Abdullah" height="255px" width="47%" />
 </div>
- 
- <div>
- <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-FSWD&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
- </div>
 
- <div>
-  <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Abdullah-FSWD&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
-       </div>
+<div>
+  <a href="https://github.com/Abdullah-FSWD/github-readme-activity-graph"><img alt="Abdullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdullah-FSWD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div
 <hr/>
 
 ##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
