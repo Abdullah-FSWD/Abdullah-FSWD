@@ -9,7 +9,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullah-FSWD&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullah-FSWD" /> </p>
 
-## 🙋‍♂️About Me
+## 🙋‍♂️About  Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms. & MERN**
 
@@ -44,7 +44,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 <hr/>
 
 
-## 📈 My Github Stats
+## 📈 My Github Stats 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abdullah-FSWD&show_icons=true&theme=blue" height="255px" width="47%"/>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-FSWD&theme=blue" alt="Abdullah" height="255px" width="47%" />
@@ -62,6 +62,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 <!-- <a href="https://fb.com/anu.abckyadav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="anu.abckyadav" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/a_b_d_u_ll_a__h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_b_d_u_ll_a__h" height="30" width="40" /></a>   
 </p>
+
       
 
 
