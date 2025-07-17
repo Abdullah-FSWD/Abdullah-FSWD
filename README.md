@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi, I'm Abdullah from Jharhand,India</h1>
-An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+I'm a Full-Stack Web Developer with over 2 years of hands-on experience, specializing in the MERN stack and Next.js. I’m passionate about building scalable, performant, and user-friendly web applications, with a strong focus on frontend development.
 
-I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
+Curious by nature and driven by results, I enjoy turning complex problems into simple, elegant solutions. Whether it's crafting responsive UIs or integrating robust backend services, I love bringing ideas to life through code.
 <hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullah-FSWD&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullah-FSWD" /> </p>
