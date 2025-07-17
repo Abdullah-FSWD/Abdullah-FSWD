@@ -16,13 +16,13 @@ Curious by nature and driven by results, I enjoy turning complex problems into s
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abdullah-portfolio.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://myportfolio-ten-phi-20.vercel.app/)**
 
-- 📫 How to reach me **ansarimdabdullah790@gmail.com**
+- 📫 How to reach me **ansarimdabdullah794@gmail.com**
 
 - ⚡ Fun fact **I love Swimming and travelling.**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JxvyiE4iluqNosVmYpt0EFWPxIRpovNt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iEr0zL7xGfW9JrHQw078BFshRlk2RGdS/view?usp=sharing)
 
 <hr/>
 
