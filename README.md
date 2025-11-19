@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Abdullah from Jharhand,India</h1>
-I'm a Full-Stack Web Developer with over 2 years of hands-on experience, specializing in the MERN stack and Next.js. I’m passionate about building scalable, performant, and user-friendly web applications, with a strong focus on frontend development.
+I'm a Full-Stack Web Developer with over 3 years of hands-on experience, specializing in the MERN stack and Next.js. I’m passionate about building scalable, performant, and user-friendly web applications, with a strong focus on frontend development.
 
 Curious by nature and driven by results, I enjoy turning complex problems into simple, elegant solutions. Whether it's crafting responsive UIs or integrating robust backend services, I love bringing ideas to life through code.
 <hr/>
@@ -22,7 +22,7 @@ Curious by nature and driven by results, I enjoy turning complex problems into s
 
 - ⚡ Fun fact **I love Swimming and travelling.**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iEr0zL7xGfW9JrHQw078BFshRlk2RGdS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YMwjv5Y6fBjPqpCAoTjrj3gYhy7TtXIS/view?usp=sharing)
 
 <hr/>
 
